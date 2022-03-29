@@ -1,0 +1,152 @@
+Customer: N/A
+Parking Floor: G
+Parking Spot: 1
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: G
+Parking Spot: 2
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: G
+Parking Spot: 3
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: G
+Parking Spot: 4
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: G
+Parking Spot: 5
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 1
+Parking Spot: 1
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 1
+Parking Spot: 2
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 1
+Parking Spot: 3
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 1
+Parking Spot: 4
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 1
+Parking Spot: 5
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 2
+Parking Spot: 1
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 2
+Parking Spot: 2
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 2
+Parking Spot: 3
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 2
+Parking Spot: 4
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 2
+Parking Spot: 5
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 3
+Parking Spot: 1
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 3
+Parking Spot: 2
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 3
+Parking Spot: 3
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 3
+Parking Spot: 4
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 3
+Parking Spot: 5
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 4
+Parking Spot: 1
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 4
+Parking Spot: 2
+Handicap: true
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 4
+Parking Spot: 3
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 4
+Parking Spot: 4
+Handicap: false
+User Chosen: false
+
+Customer: N/A
+Parking Floor: 4
+Parking Spot: 5
+Handicap: false
+User Chosen: false
+
+Repeat Customers: 
+HOP, 73.0
